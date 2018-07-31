@@ -9,6 +9,10 @@ To Start: Create a branch on the App we just created called ```dog-dev```
 
 2.  You are then going to create another component called ```PuppyList``` that renders all the dogs you create from your form in the component you just made, the component will be rendered by ```MainContainer```, (What props do you need to pass to this component?).  Note you want to display all the of the properties of each dog, so the age, name, and breed
 
+
+** BONUS ** 
+
+
 3.  Try to create functionality to delete puppies from your list
 
 4.  Create functionality that will give a certain background color to dogs above or below a certain age for example, (age <= 5 background = 'purple',or  age > 5 age < 10 background = 'red'.  Note this is just logic, not actual code.
